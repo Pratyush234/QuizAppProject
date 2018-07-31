@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizAppProject</string>
+    <string name="question1">"Gabe Newell is the CEO of Valve"</string>
+    <string name="question2">"Tom Hiddleston is cast in Mission Impossible"</string>
+    <string name="question3">"Honduras is a european country"</string>
+    <string name="question4">"Thanos dies in Infinity war part 1"</string>
+    <string name="question5">"Benedict Cumberbatch is in Startrek"</string>
+    <string name="question6">"FIFA is a multiplayer game"</string>
+    <string name="question7">"Hermione belongs to the house of Slytherin"</string>
+    <string name="question8">"The study of space is called Astrology"</string>
+    <string name="question9">"Africa has more than 50 countries"</string>
+    <string name="question10">"Boston Tea party happened on the coast of San Francisco"</string>
+
+
+</resources>
